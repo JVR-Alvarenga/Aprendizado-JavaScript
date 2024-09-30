@@ -1,2 +1,2 @@
 # Sobre o Projeto
- um repositório de JavaScript dos ensinamentos que eu aprendi
+Projeto de transformação de Real em Dolar e de Dolar em Real
