@@ -35,7 +35,7 @@ class Sorcerer extends Character {
         this.life = 80;
         this.attack = 22;
         this.defense = 5;
-        this.maxLife = 100;
+        this.maxLife = 80;
     }
 }
 
@@ -47,7 +47,7 @@ class LittleMonster extends Character {
         this.life = 60;
         this.attack = 9;
         this.defense = 15;
-        this.maxLife = 120;
+        this.maxLife = 60;
     }
 }
 
